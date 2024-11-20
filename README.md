@@ -12,8 +12,6 @@ Welcome to my GitHub portfolio! I'm a passionate **Full-Stack Developer**, speci
 - **Databases**: MongoDB, PostgreSQL, MySQL
 - **Specializations**: Full-Stack Development, Cloud Computing, API Development
 
----
-
 <!--
 ## 📂 Featured Projects
 
