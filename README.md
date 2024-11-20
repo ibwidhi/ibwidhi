@@ -29,9 +29,8 @@ Welcome to my GitHub portfolio! I'm a passionate **Full-Stack Developer**, speci
 
 ## 🌱 What I'm Currently Learning
 
-- Advanced TypeScript patterns
-- Cloud-native development with AWS (CDK, Serverless Framework)
 - **Golang**
+- Cloud-native development with AWS (CDK, Serverless Framework)
 
 ---
 
