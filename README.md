@@ -4,13 +4,13 @@ Welcome to my GitHub portfolio! I'm a passionate **Full-Stack Developer**, speci
 
 ---
 
-## 🛠️ Skills & Technologies
+<!-- ## 🛠️ Skills & Technologies
 
 - **Languages**: JavaScript, TypeScript, PHP, Ruby, Go
 - **Frameworks & Libraries**: React, Next.js, Express.js, GraphQL
 - **Cloud & DevOps**: AWS (EC2, S3, Lambda, RDS, CloudFormation), Docker
 - **Databases**: MongoDB, PostgreSQL, MySQL
-- **Specializations**: Full-Stack Development, Cloud Computing, API Development
+- **Specializations**: Full-Stack Development, Cloud Computing, API Development -->
 
 <!--
 ## 📂 Featured Projects
@@ -27,10 +27,10 @@ Welcome to my GitHub portfolio! I'm a passionate **Full-Stack Developer**, speci
 
 ---
 
-## 🌱 What I'm Currently Learning
+<!-- ## 🌱 What I'm Currently Learning
 
 - **Golang**
-- Cloud-native development with AWS (CDK, Serverless Framework)
+- Cloud-native development with AWS (CDK, Serverless Framework) -->
 
 ---
 
@@ -51,13 +51,16 @@ Welcome to my GitHub portfolio! I'm a passionate **Full-Stack Developer**, speci
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Metrics
 
-![Widhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibwidhi&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibwidhi&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=6" />
+</p>
 
 ---
 
-### 📝 License
+<!-- ### 📝 License
 
-Feel free to explore, fork, and use my projects. If you find something helpful, a ⭐ would mean the world to me!
+Feel free to explore, fork, and use my projects. If you find something helpful, a ⭐ would mean the world to me! -->
