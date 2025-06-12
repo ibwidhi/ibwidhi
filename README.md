@@ -15,16 +15,6 @@ Welcome to my GitHub portfolio! I'm a passionate **Full-Stack Developer**, speci
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ibwidhi&show_icons=true&theme=default" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibwidhi&layout=compact&langs_count=6" />
-</p>
-
----
-
 ## 🌐 Let's Connect
 
 - **Website/Portfolio**: [ibwidhi.com](https://ibwidhi.com)
