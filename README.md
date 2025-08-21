@@ -27,14 +27,14 @@ I'm **Widhi**, a passionate **Software Engineer** specializing in **full-stack d
   </a>
 </p>
 
----
+<!-- --- -->
 
-### 📊 My GitHub Contributions
+<!-- ### 📊 My GitHub Contributions
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Widhi&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Widhi&theme=dark" alt="GitHub Streak Stats" />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=ibwidhi&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibwidhi&theme=dark" alt="GitHub Streak Stats" />
+</div> -->
 
 ---
 
@@ -44,10 +44,10 @@ I'm **Widhi**, a passionate **Software Engineer** specializing in **full-stack d
   <a href="https://www.linkedin.com/in/widhi">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:widhi.dev@example.com">
+  <a href="mailto:tudewidhi@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://widhi.dev">
+  <a href="https://ibwidhi.com">
     <img src="https://img.shields.io/badge/Website-red?style=for-the-badge&logo=About.me&logoColor=white" alt="Website">
   </a>
 </p>
