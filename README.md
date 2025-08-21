@@ -22,9 +22,7 @@ I'm **Widhi**, a passionate **Software Engineer** specializing in **full-stack d
 ### 🛠️ Core Skills & Technologies
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,java,spring,php,laravel,python,docker,aws,gcp,mysql,postgresql,mongodb,go,vite,angular,graphql" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=js,ts,go,c,cpp,java,php,ruby,python,mysql,postgresql,mongodb,react,nextjs,nodejs,express,laravel,rails,docker,aws,gcp,vite,angular,apollo,graphql,npm,cloudflare,github,jest" />
 </p>
 
 <!-- --- -->
