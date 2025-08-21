@@ -51,5 +51,3 @@ I'm **Widhi**, a passionate **Software Engineer** specializing in **full-stack d
     <img src="https://img.shields.io/badge/Website-red?style=for-the-badge&logo=About.me&logoColor=white" alt="Website">
   </a>
 </p>
-
----
